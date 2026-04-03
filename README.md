@@ -31,3 +31,6 @@ If you want to run this project on your local machine, follow these steps:
 
 ##   Launch the application:
    streamlit run app.py
+
+   ## 🔗 Live Demo
+Check out the live application here: [Live Demo Link](https://ravishka-bg-remover.streamlit.app/)
