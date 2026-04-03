@@ -26,8 +26,8 @@ If you want to run this project on your local machine, follow these steps:
    ```bash
    git clone [https://github.com/Ravishka14/background-remover.git](https://github.com/Ravishka14/background-remover.git)
 
-   Install the required dependencies:
+##   Install the required dependencies:
    pip install streamlit rembg pillow
 
-   Launch the application:
+##   Launch the application:
    streamlit run app.py
